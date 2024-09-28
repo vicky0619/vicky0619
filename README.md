@@ -8,14 +8,6 @@
 
 ---
 
-### 🚀 Projects
-- **[TapMe Plus One Game](https://github.com/qiaoyi213/TapMePlusOne)**: Java-based interactive game emphasizing OOP principles
-- **[Cat Hunter Game](https://github.com/vicky0619/cat-hunter)**: x86 assembly language game, focusing on low-level programming
-- **[Fog-Safe Driving System](https://github.com/vicky0619/mmvAI)**: AI-based driving assistance for obstacle detection in foggy conditions
-- **[AI-Powered Museum Artifact Recognition App](https://github.com/vicky0619/museum-exhibition-classification)**: Building an iOS app for real-time artifact recognition using **TensorFlow Lite** and **Swift** (private repository)
-
----
-
 ### 🔧 Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
