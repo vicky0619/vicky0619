@@ -28,4 +28,5 @@
 
 ### ✨ Fun Fact
 - 🌟 Besides coding, I'm a huge KPOP fan and love listening to **NewJeans**, **Mamamoo**, and **aespa**! 🎤🎶
-<iframe width="560" height="315" src="https://youtu.be/ft70sAYrFyY?si=3oNVzy662z3hQp8d" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ft70sAYrFyY" frameborder="0" allowfullscreen></iframe>
+
