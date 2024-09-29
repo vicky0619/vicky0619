@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f791c530-b18b-4965-a072-c1858335da74)## 👋 Hi there, I'm Wen-Chi Tsai (Vicky)!
+## 👋 Hi there, I'm Wen-Chi Tsai (Vicky)!
 
 🎓 **Computer Science Student** at [National Central University](https://www.ncu.edu.tw/en)  
 🔭 **Currently working on** AI, Machine Learning, and Mobile Development projects  
