@@ -28,5 +28,5 @@
 
 ### ✨ Fun Fact
 - 🌟 Besides coding, I'm a huge KPOP fan and love listening to **NewJeans**, **Mamamoo**, and **aespa**! 🎤🎶
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ft70sAYrFyY" frameborder="0" allowfullscreen></iframe>
+![Minji & Haerin Bubble Gum Concept](https://static.wikia.nocookie.net/witchers/images/0/05/Minji_%26_Haerin_Bubble_Gum_Concept_Photo_%281%29.jpg/revision/latest/scale-to-width-down/1000?cb=20240426183543)
 
