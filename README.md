@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Wen-Chi Tsai (Vicky)!
+![image](https://github.com/user-attachments/assets/f791c530-b18b-4965-a072-c1858335da74)## 👋 Hi there, I'm Wen-Chi Tsai (Vicky)!
 
 🎓 **Computer Science Student** at [National Central University](https://www.ncu.edu.tw/en)  
 🔭 **Currently working on** AI, Machine Learning, and Mobile Development projects  
@@ -28,5 +28,5 @@
 
 ### ✨ Fun Fact
 - 🌟 Besides coding, I'm a huge KPOP fan and love listening to **NewJeans**, **Mamamoo**, and **aespa**! 🎤🎶
-![Minji & Haerin Bubble Gum Concept](https://static.wikia.nocookie.net/witchers/images/0/05/Minji_%26_Haerin_Bubble_Gum_Concept_Photo_%281%29.jpg/revision/latest/scale-to-width-down/1000?cb=20240426183543)
+![Bubble Gum Concept](https://static.wikia.nocookie.net/witchers/images/1/14/NewJeans_Bubble_Gum_Concept_Photo_%287%29.jpg/revision/latest/scale-to-width-down/1000?cb=20240426183416)
 
