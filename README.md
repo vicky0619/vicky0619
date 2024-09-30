@@ -28,5 +28,5 @@
 
 ### ✨ Fun Fact
 - 🌟 Besides coding, I'm a huge KPOP fan and love listening to **NewJeans**, **Mamamoo**, and **aespa**! 🎤🎶
-![Bubble Gum Concept](https://static.wikia.nocookie.net/witchers/images/1/14/NewJeans_Bubble_Gum_Concept_Photo_%287%29.jpg/revision/latest/scale-to-width-down/1000?cb=20240426183416)
+![Bubble Gum Concept](https://i.imgur.com/ThhzshW.jpeg)
 
