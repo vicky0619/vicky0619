@@ -5,6 +5,7 @@
 📱 Learning Swift + TensorFlow Lite for iOS on-device AI  
 🌐 [Website](https://vicky0619.github.io/) | [LinkedIn](https://www.linkedin.com/in/wen-chi-tsai-30189524a/) | [Instagram](https://www.instagram.com/wenchi_tsai/)  
 🎧 KPOP fan — **NJZ(NewJeans)**, **Mamamoo**, **aespa**
+
 ---
 
 ### 🔧 Skills & Tools
