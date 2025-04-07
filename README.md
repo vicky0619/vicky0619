@@ -20,7 +20,7 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vicky0619&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=vicky0619&theme=tokyonight&hide_border=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicky0619&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
