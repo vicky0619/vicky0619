@@ -15,7 +15,7 @@
 - **Computer Science student** at [National Central University](https://www.ncu.edu.tw/en), Taiwan  
 - **Focus on** AI systems, language technologies (RAG, LLM compression), computer vision, and ML-powered apps  
 
----
+
 
 ## Skills & Tools
 
@@ -39,7 +39,7 @@
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 
----
+
 
 ## GitHub Stats
 <div align="center">
