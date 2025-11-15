@@ -17,7 +17,7 @@
 
 ---
 
-### 🔧 Skills & Tools
+## Skills & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -41,7 +41,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Stats
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicky0619&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=vicky0619&theme=tokyonight&hide_border=true"/>
