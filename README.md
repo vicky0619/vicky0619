@@ -7,8 +7,8 @@
   <a href="https://vicky0619.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Blog-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="blog" />
   </a>
-  <a href="mailto:vicky46586038@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D44638.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  <a href="https://instagram.com/wenchi_tsai" target="_blank">
+    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a>
 </div>  
 
