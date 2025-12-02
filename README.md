@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=eabfff&width=520&lines=Hi+there+👋+I'm+Wen-Chi+(Vicky)+Tsai)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=eabfff&width=600&lines=Hi+there+👋+I'm+Wen-Chi+(Vicky)+Tsai)](https://git.io/typing-svg)
 
 <div align="left">
   <a href="https://www.linkedin.com/in/wen-chi-tsai/" target="_blank">
