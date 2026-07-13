@@ -8,14 +8,13 @@
     <img src="https://img.shields.io/badge/Blog-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="blog" />
   </a>
   <a href="https://instagram.com/wenchi_tsai" target="_blank">
-    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
-</div>  
+</div>
 
-- **Computer Science student** at [National Central University](https://www.ncu.edu.tw/en), Taiwan  
-- **Focus on** AI systems, language technologies (RAG, LLM compression), computer vision, and ML-powered apps  
-
-
+- **M.S. in Intelligent Information Systems @ Carnegie Mellon University**
+- **Previously Software Engineering Intern @ ASUS**
+- **Interested in** AI Systems, LLM Infrastructure, Retrieval, ML Systems, and Computer Vision
 
 ## Skills & Tools
 
@@ -38,10 +37,8 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-
-
-
 ## GitHub Stats
+
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicky0619&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=vicky0619&theme=tokyonight&hide_border=true"/>
